@@ -21,3 +21,10 @@
 	float: left;
 	padding-top: 2px;
 }
+
+
+
+/* 2.11. Produtividade com DevTools e Livereload
+   Foi ensinado como usar o LiveReload, é só ativar a extensão no chrome
+   e iniciar na página da aplicação.
+   Toda alteração feita no html/css já é aplicada sem dar refresh na página */
